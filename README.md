@@ -12,7 +12,7 @@ I started a Lending Club account. While waiting on it to open I thought, What if
 
 	say compound_interest 
 			5000, 	# My initial payment, or principal
-			.005, 	# Since I it "compounds monthly and that 6% really means yearly, it should be .06 / 12
+			.005, 	# Since it compounds monthly and that 6% really means yearly, it should be .06 / 12
 			36, 	# Number of months we expect it to compound.
 			3;	# At year 3 how will this look.
 		
